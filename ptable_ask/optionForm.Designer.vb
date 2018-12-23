@@ -40,7 +40,7 @@ Partial Class optionForm
         Me.CheckBox1.Name = "CheckBox1"
         Me.CheckBox1.Size = New System.Drawing.Size(237, 21)
         Me.CheckBox1.TabIndex = 0
-        Me.CheckBox1.Text = "첼린지 모드 활성화 (재시작시 적용)"
+        Me.CheckBox1.Text = "챌린지 모드 활성화 (재시작시 적용)"
         Me.CheckBox1.UseVisualStyleBackColor = True
         '
         'CheckBox2
